@@ -1,1 +1,1 @@
-export { DatabrowserCounter } from './modules/databrowser-counter/DatabrowserCounter.js';
+export { DatabrowserCounter } from './modules/databrowser-counter/DatabrowserCounter';
